@@ -26,4 +26,4 @@ You play as a computer science student named Lia, who is a positive person, but 
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/mcdream.git
+   git clone https://github.com/pouriaafshari/McDream.git
