@@ -24,6 +24,4 @@ You play as a computer science student named Lia, who is a positive person, but 
 
 ## Installation
 
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/pouriaafshari/McDream.git
+https://c10udpng.itch.io/mc-dream
