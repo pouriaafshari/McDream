@@ -5,7 +5,7 @@ The main message of the game is to show the job hunting challenges and frustrati
 
 ## Story
 
-You play as a computer science student named Lia, who is a positive person, but she is frustrated about future of computer science and job market for her field.
+You play as a computer science student named Mei, who is a positive person, but she is frustrated about future of computer science and job market for her field.
 
 ### Features
 - **Intuitive Controls:** Easy-to-learn controls for a smooth gaming experience.
