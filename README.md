@@ -22,6 +22,4 @@ You play as a computer science student named Mei, who is a positive person, but 
 ![Screen3](screen3.png)
 *Customer feedback and order completion screen.*
 
-## Installation
 
-https://c10udpng.itch.io/mc-dream
